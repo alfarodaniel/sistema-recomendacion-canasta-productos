@@ -5,15 +5,15 @@ Hoy en día, en las tiendas en línea, los usuarios llegan, navegan, se registra
 
 En este reposotorio encontrarás una propuesta de metodología de aprendizaje no supervisado para la recomendación de productos como alternativa de respuesta a la pregunta planteada.
 
-## Esquema de Datos
-![](./documentos/esquema_datos.png)
-
 ## Secciones 
 * [Documentos](./documentos)
   * [Propuesta inicial Sistema de Recomendación](./documentos/Propuesta_inicial_Sistema_de_Recomendacion.pdf)
 * [Códigos](./codigos)
 * [Data](./data)
-* Resultaos Preliminares
+* Resultados Preliminares
 
+## Esquema de Datos
+![](./documentos/esquema_datos.png)
 
-Repositorio y README: El repositorio está organizado en carpetas que contienen los datos, los códigos, los resultados preliminares, y el documento de la entrega.  Cuenta con un archivo README que orienta y ayuda la navegación del repositorio.
+## Gráfica: Frecuencia de Productos
+![](./documentos/frecuencia_productos.png)
