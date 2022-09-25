@@ -7,8 +7,8 @@ Finalmente se evidencia que es recomendable tener otros datos como las descripci
 
 En este repositorio encontrarás una propuesta de metodología de aprendizaje no supervisado para la recomendación de productos como alternativa de respuesta a la pregunta planteada.
 
-## Presentación
-[![Watch the video](https://img.youtube.com/vi/w022VznKWVg/hqdefault.jpg)](https://www.youtube.com/watch?v=w022VznKWVgA)
+## Video Presentación
+[![Watch the video](https://img.youtube.com/vi/w022VznKWVg/hqdefault.jpg)](https://www.youtube.com/watch?v=w022VznKWVgA){:target="_blank"}
 
 ## Esquema de Datos
 ![](./documentos/esquema_datos.png)
@@ -19,7 +19,7 @@ En este repositorio encontrarás una propuesta de metodología de aprendizaje no
   * [Propuesta final Sistema de Recomendación](./documentos/Propuesta_final_Sistema_de_Recomendacion.pdf)
 * [Códigos](./codigos)
 * [Data](./data)
-* Resultados Preliminares
+* [Resultados Preliminares](./resultados)
 
 ## Esquema de Datos
 ![](./documentos/esquema_datos.png)
