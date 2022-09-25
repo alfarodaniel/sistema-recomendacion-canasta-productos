@@ -1,3 +1,11 @@
+## Secciones 
+* [Documentos](./documentos)
+  * [Propuesta inicial Sistema de Recomendación](./documentos/Propuesta_inicial_Sistema_de_Recomendacion.pdf)
+  * [Propuesta final Sistema de Recomendación](./documentos/Propuesta_final_Sistema_de_Recomendacion.pdf)
+* [Códigos](./codigos)
+* [Data](./data)
+* [Resultados Preliminares](./resultados)
+
 # Sistema de recomendacion de canasta productos para una tienda en línea
 “Olist Store” es una empresa brasileña con un Ecommerce que reúne varias marcas dentro de su página y para incrementar sus ventas necesita resolver la pregunta:
 
@@ -17,14 +25,4 @@ En este repositorio encontrarás una propuesta de metodología de aprendizaje no
 ## Esquema de Datos
 ![](./documentos/esquema_datos.png)
 
-## Secciones 
-* [Documentos](./documentos)
-  * [Propuesta inicial Sistema de Recomendación](./documentos/Propuesta_inicial_Sistema_de_Recomendacion.pdf)
-  * [Propuesta final Sistema de Recomendación](./documentos/Propuesta_final_Sistema_de_Recomendacion.pdf)
-* [Códigos](./codigos)
-* [Data](./data)
-* [Resultados Preliminares](./resultados)
-
-## Esquema de Datos
-![](./documentos/esquema_datos.png)
 
